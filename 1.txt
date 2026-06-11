@@ -1,0 +1,14 @@
+using namespace std;
+#include <iostream>
+void vars()
+{
+int i = 500;
+int j = 100;
+cout << "i=" << i << endl;
+cout << "j=" << j << endl;
+}
+
+int main()
+{
+vars();
+}
