@@ -10,5 +10,5 @@ cout << "j=" << j << endl;
 
 int main()
 {
-
+vars();
 }
